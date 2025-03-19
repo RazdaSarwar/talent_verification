@@ -17,3 +17,6 @@ The goal of TalentVerify is to create a trustless and transparent system for cre
 - Secure and decentralized credential verification.
 - Table-based credential management.
 - Seamless credential addition and authentication.
+## Contract 
+Address: 0x2cfcfdbb6ad986e8b527f381b5884f111b0f7f4beed048f5d85973dabc3921e8
+<img width="1438" alt="Screenshot 2025-03-19 at 2 30 03 PM" src="https://github.com/user-attachments/assets/b56d9b74-fd79-4470-a60b-7a2b97a5e147" />
